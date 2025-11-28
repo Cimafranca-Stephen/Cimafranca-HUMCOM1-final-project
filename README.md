@@ -1,4 +1,3 @@
-# Cimafranca-Resume
 <!DOCTYPE html>
 
 <h1>Resume-HUMCOM1</h1>
